@@ -1,0 +1,283 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-29 07:50+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:143
+msgid "Next:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:226
+msgid "page0"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:238
+msgid "page1"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:351
+msgid "Thumbnail"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:364
+msgid "Info"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:463
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:995
+msgid "Main"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:560
+msgid "File Name"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:710
+msgid "Control"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:722
+msgid "Language:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:734
+msgid "Max files in playlist:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:746
+msgid "Video window font:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:758
+msgid "Video window font wieght:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:769
+msgid "Video window font style:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:780
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:881
+msgid "Video window font color:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:791
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:928
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:943
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1403
+msgid "1"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:850
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:867
+#: /home/roh/programming/projects/tilfaz/main.py:21
+msgid "normal"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:851
+msgid "italic"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:852
+msgid "oblique"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:866
+msgid "bold"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:868
+msgid "lighter"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:904
+msgid "Video side margin:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:916
+msgid "Video tob/bottom margin:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:958
+msgid "Video monitor:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:981
+msgid "Options"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1039
+msgid "Edit Program"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1094
+msgid "Name:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1106
+msgid "Directory:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1170
+msgid "Stopped"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1185
+msgid "Opening:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1197
+msgid "Ending:"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1290
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:2035
+msgid ":"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1320
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:2065
+#: /home/roh/programming/projects/tilfaz/gui.py:254
+#: /home/roh/programming/projects/tilfaz/gui.py:851
+#: /home/roh/programming/projects/tilfaz/gui.py:884
+msgid "Weekly"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1388
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:2133
+msgid "Normal"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1389
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:2134
+msgid "Repeat"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1390
+msgid "Random"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1474
+msgid "Subprograms"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1590
+msgid "Period"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1605
+msgid "Time"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1620
+msgid "Dayes"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1635
+msgid "Mode"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1740
+msgid "Edit"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1755
+msgid "Next: <i>program name</i> on <b>%Y/%m/%d %H:%M</b>"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1941
+msgid "All programs"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1957
+msgid "Only running programs"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/glade/main.glade:1974
+msgid "Only stopped programs"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/gui.py:258
+#: /home/roh/programming/projects/tilfaz/gui.py:848
+#: /home/roh/programming/projects/tilfaz/gui.py:887
+msgid "Monthly"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/gui.py:546
+msgid "{:%d/%m/%Y}"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/gui.py:547
+msgid "After one days"
+msgid_plural "After {} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /home/roh/programming/projects/tilfaz/gui.py:557
+msgid "After {:02}:{:02}"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/gui.py:565
+msgid "After one second"
+msgid_plural "After {} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /home/roh/programming/projects/tilfaz/gui.py:619
+msgid "Next: <i>{}</i> on <b>{:%Y-%m-%d %H:%M}</b>"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/gui.py:735
+msgid "0123456789"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/main.py:22
+msgid "repeat"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/main.py:23
+msgid "random"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/utils.py:7
+msgid "mon"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/utils.py:7
+msgid "tue"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/utils.py:7
+msgid "wed"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/utils.py:7
+msgid "thu"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/utils.py:7
+msgid "fri"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/utils.py:7
+msgid "sat"
+msgstr ""
+
+#: /home/roh/programming/projects/tilfaz/utils.py:7
+msgid "sun"
+msgstr ""
